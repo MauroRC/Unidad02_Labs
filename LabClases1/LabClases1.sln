@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabClases1", "LabClases1\LabClases1.csproj", "{BF250FAB-F625-4977-BB3D-F1A763BFF795}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{CAED7A76-85F8-4B1D-9A62-104409DFA907}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{2DEEAE74-D3BD-4C94-8FA8-E2AA5D05ED01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{BF250FAB-F625-4977-BB3D-F1A763BFF795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF250FAB-F625-4977-BB3D-F1A763BFF795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF250FAB-F625-4977-BB3D-F1A763BFF795}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CAED7A76-85F8-4B1D-9A62-104409DFA907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAED7A76-85F8-4B1D-9A62-104409DFA907}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAED7A76-85F8-4B1D-9A62-104409DFA907}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAED7A76-85F8-4B1D-9A62-104409DFA907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEEAE74-D3BD-4C94-8FA8-E2AA5D05ED01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEEAE74-D3BD-4C94-8FA8-E2AA5D05ED01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEEAE74-D3BD-4C94-8FA8-E2AA5D05ED01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEEAE74-D3BD-4C94-8FA8-E2AA5D05ED01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
